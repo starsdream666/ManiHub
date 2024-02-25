@@ -1,7 +1,9 @@
 {
   "AccountName": "sdwrsk",
-  "AccountPassword": "Sw084812",
-  "RefreshToken": "eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInN0ZWFtIiwgInN1YiI6ICI3NjU2MTE5OTIyNDc0NzM0MSIsICJhdWQiOiBbICJjbGllbnQiLCAid2ViIiwgInJlbmV3IiwgImRlcml2ZSIgXSwgImV4cCI6IDE3MTE0MzY4NzksICJuYmYiOiAxNzAwMjE2MjQxLCAiaWF0IjogMTcwODg1NjI0MSwgImp0aSI6ICIwRUU2XzIzRkVEN0E0X0MyNzQ4IiwgIm9hdCI6IDE3MDg4NTYyNDEsICJwZXIiOiAwLCAiaXBfc3ViamVjdCI6ICIxNTcuNTUuMTg5LjMyIiwgImlwX2NvbmZpcm1lciI6ICIxNTcuNTUuMTg5LjMyIiB9.kAl9vfZwYUtm_2UZJxMaBj72ftaoTjb0KEqif3AqvIAb9buXrL0yXkiYwrLTYEv0keBIyexfy10SlIIddldsDQ",
+  "AccountPassword": "lr6EgbTyqyDwGFC4lJNSWg==",
+  "RefreshToken": "ammMjctd+r/Zy5OESGQzAP0sIi2CSKTaHwzG/peVnfVvi9eghvd/BxYrEhgMD712tl+9JbaPls1K3kFb4IL1AC0TAENu/uSPN6cfK/rJCD9Mc/FWw/3pwOU7ds8T2z+ukKXBFeBVeC3J2DJ1gEqqQS+F12Cic9fT15lhiSFcjsrxKq+GueVQaOUpX4buScji9i/4G1+ZDcsrk/uT7xEckLSmhAKpR5hUQv7pe4S44Kd6/pDi+OCa7TJ0VUrC3p3PJlBNW37sIqrnXocB9118YqyKjqQAulDhwGXG7yDUDWagRlkjGlJZLOu6iPOYCmLS0+l8Da3wkPdbO1x1rgFMN9aQsR3oaP+Bswzlvh8XD5V7Xdj6Pi9qTwgjWAnSRh2OWew9OUBliW/FuF0jKDl+vqKpqHwly3ustFMxkD3rmy2ut1pZ9wAI0KLDpFT+bKA8nuS53br5GMaR4uvF9aciqnnOf5j8QrsWzaiLtxRPHIVBih8KIgGcO6eeueB1zZJwmuRuVjdvD1VxBk6FXV6zsCGThriFBJTVRHWblDv7JMdfgz8nf1vAsHxQdTplZnkO+/RkiIcu04BcubKvVbUNlmanKE4zEEwqut5hhap7xxQbMQPRwvvQsfU3XtaFjvMOayZdr7AYDg1zsO7xeR0M2g==",
   "LastRefresh": "2024-02-25T10:17:21.9774746+00:00",
-  "Index": "APVL8-ZMVQ"
+  "Index": "APVL8-ZMVQ",
+  "AesEncrypted": true,
+  "AesIV": "PCzQQt6DSitVlOK3II3nJQ=="
 }
