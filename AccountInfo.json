@@ -1,7 +1,9 @@
 {
   "AccountName": "EmreDndr81",
-  "AccountPassword": "Miniyagi44",
-  "RefreshToken": "eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInN0ZWFtIiwgInN1YiI6ICI3NjU2MTE5ODM2MTU4NTUxNSIsICJhdWQiOiBbICJjbGllbnQiLCAid2ViIiwgInJlbmV3IiwgImRlcml2ZSIgXSwgImV4cCI6IDE3MTExMDQ0MTcsICJuYmYiOiAxNjk5ODQzODQxLCAiaWF0IjogMTcwODQ4Mzg0MSwgImp0aSI6ICIwRUU0XzIzRkVENzZFX0NENjE5IiwgIm9hdCI6IDE3MDg0ODM4NDEsICJwZXIiOiAwLCAiaXBfc3ViamVjdCI6ICIyMC41Ny43Ny4xNDMiLCAiaXBfY29uZmlybWVyIjogIjIwLjU3Ljc3LjE0MyIgfQ.rLqNtbrpqf3E8pajknT8KIeWb5u6GsguLtEp_Wg4wF09M7Tn4Mhk5xdFq59taYXKdu3BPRu3JNai6swBi1RtCw",
+  "AccountPassword": "pKVMAcXqa7hucFbQpP1Odg==",
+  "RefreshToken": "CmSoh1l/tuDvIPiqdm48PuL6ROm/aduAalb22uzGjAfnlpyCk3I3BNTn7RXz2HyttZIuSE9gSj4gXJic84YY3ReyNOYIez6EfxtgnD4ap1oxanXUv8WvuNuRNk7otHizyeG8YbHyesGBqTS+/7hRxlyQOL0y7+wrkyqQDwJmtrWBGyofjF9eOWwLBOoFkGJJSfjzflFatwcRzXy7ijs7Z/i01IGtt499jHx/T82FJ4/aQhIXGvK3vyq0Gh8jM6j0RMbvHo1VOPHi/5TYBQl8XxV+G4VoEW9Vkia/3XyrjEiEiZtKDZM3F3gYg2qeM/fvuBaI2BklCXGBRMlPj67wO68CsUlAhE6TmHoIz6AdLJfSfD1/4pmucxinvO70p9cUi018J56AOPrUsIYjhYoFKJ2lDqY9REL5JrwvLeDu2SghnmofySRTeXnDh1BKqbpPmP8NI1vNRQeBNmUOG7/OPm1beaR9wCy3f32d8DBjbekbKzb0fsgjrXjYsVXV9ijNfoLhVieN9jQDkhYY9rcuoNa3MpBS9MvZJRn8O/iUVHiMWzx6Vf+vi1/HL+NctWd3JLHLdz8RdwfDo8YfmjeP8RJzfJPJvph0oA1gg4+1ibSHWWlo3sfR+BuPvrEXx/W/NncTcqR0UDB8eHwJ1f/yRw==",
   "LastRefresh": "2024-02-21T02:50:42.3062435+00:00",
-  "Index": "S7YMM-L7EN"
+  "Index": "S7YMM-L7EN",
+  "AesEncrypted": true,
+  "AesIV": "6x1IMC3fG859tk9bBsU1tQ=="
 }
